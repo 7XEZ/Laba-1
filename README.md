@@ -1,7 +1,6 @@
 # Лабараторная работа 1
 Установка
 Запустите скрипт:
-
 pip install jupyter
 pip install nbconvert
 jupyter nbconvert --to notebook --execute weather.ipynb
