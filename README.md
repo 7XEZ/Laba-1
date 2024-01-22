@@ -2,16 +2,13 @@
 
 ---
 
-## Установка
+## Запуск
 
-Запустите скрипт:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e_TfleLai3ld1Mj0txuKIqx5quM-7LvK?hl=ru_RU)
 
-```bash
-pip install jupyter
-pip install nbconvert
-jupyter nbconvert --to notebook --execute weather.ipynb
+ Здесь лежит dataset для анализа
 
-```
+ (https://www.kaggle.com/datasets/yasserh/student-marks-dataset)
 
 ## Описание
 Этот инструмент разработан для комплексного анализа образовательных данных. Он включает в себя несколько ключевых компонентов, каждый из которых предназначен для изучения различных аспектов данных, таких как производительность студентов, взаимосвязь между различными факторами и группировка студентов по схожим характеристикам.
